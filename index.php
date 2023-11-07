@@ -12,10 +12,10 @@
     <?php
         $idade = 3;
         $salario = 1825.54;
-        $nome = 'Leonardo';
+        $nome = "Leonardo";
         $cansado = false;
 
-        echo 'Olá, Mundo!';
+        echo "Olá, Mundo!";
     ?>
 </body>
 
